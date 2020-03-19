@@ -2,10 +2,11 @@
 
 	$serveur = "localhost";
 	$base = "temperatures_milly";
-	$user = "root";
-	$pass = "Concorde001";
+	$user = "*****";
+	$pass = "****";
 	
 	
+		
 	
 	$now = date("Y-m-d H:i:s");
 	
