@@ -1,0 +1,50 @@
+body {
+  background-color: lightblue;
+}
+
+div#navcanvas
+{
+	
+	
+	display:inline-block;
+	color:blue;
+	height:20;
+}
+
+div#footer div.dateptimepiker
+{
+	display:inline-block;
+}
+div#header
+{
+	display:inline;
+	color:green;
+	text-align: center;
+	margin: auto;
+	width: 50%;
+}
+
+
+div#footer
+{
+	display:inline;
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	
+}
+div#footer div.centerbox
+{
+	color:grey;
+	
+}
+
+div#footer div.leftbox
+{
+	color:grey;
+}
+
+div#footer div.rightbox
+{
+	color:grey;
+}
